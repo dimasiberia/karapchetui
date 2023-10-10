@@ -1,0 +1,211 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+.section {
+    display: flex;
+    flex-direction: column-reverse;
+    margin: 50px;
+}
+
+.sectionreverse {
+    margin: 50px;
+}
+
+.hub {
+    display: flex;
+    align-items: end;
+}
+
+
+.planar {
+    background-color: rgb(89, 203, 78);
+    width: 120px;
+    height: 40px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 10px;
+}
+
+.hammocky {
+    background-color: rgb(47, 131, 72);
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 30px;
+}
+
+.fine-laminated-siltstone {
+    background-color: rgb(7, 90, 18);
+    width: 118px;
+    height: 40px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 12px;
+}
+
+.throuh-cross-bedded {
+    background-color: rgba(169, 237, 42, 0.793);
+    width: 120px;
+    height: 40px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 10px;
+}
+
+.crossbedded {
+    background-color: rgb(255, 237, 97);
+    width: 125px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 5px;
+}
+
+.soft-sediment-deformation {
+    background-color: rgb(20, 165, 144);
+    width: 126px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 4px;
+}
+
+.alterating-dolostones {
+    background-color: rgb(212, 97, 143);
+    width: 122px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 8px;
+}
+
+.intraclastic-dolostones {
+    background-color: rgb(193, 88, 181);
+    width: 120px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 10px;
+}
+
+.biolaminited {
+    background-color: rgb(236, 112, 217);
+    width: 125px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 5px;
+}
+
+.breccia {
+    background-color: red;
+    width: 140px;
+    height: 30px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: -10px;
+}
+
+.dolomite-breccia {
+    background-color: rgb(237, 181, 232);
+    width: 126px;
+    height: 30px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 4px;
+}
+
+.alterating-sandstones-shales {
+    background-color: rgb(234, 159, 124);
+    width: 126px;
+    height: 30px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 4px;
+}
+
+.wave-rippled {
+    background-color: rgb(249, 208, 189);
+    width: 126px;
+    height: 30px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 4px;
+}
+
+.close {
+
+    width: 0px;
+    height: 30px;
+    border-left: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.div {
+    display: flex;
+    align-items: flex-end;
+}
+
+span {
+    width: 30px;
+    font-size: 8px;
+    margin-right: 5px;
+    margin-top: -7px;
+    margin-left: 5px;
+
+
+}
+
+.sample {
+    margin-left: 20px;
+    display: flex;
+    align-items: end;
+
+}
+
+.sample div.square {
+    width: 10px;
+    min-height: 10px;
+    background-color: black;
+    margin-top: -5px;
+
+}
+
+div.image {
+    background-color: green;
+}
+
+
+
+.sample span {
+    width: 80px;
+
+}
+
+
+.legend {
+    position: sticky;
+    top: 0px;
+    right: 0px;
+    height: 400px;
+}
+
+.image-container {
+    display: none;
+    position: relative;
+}
+
+.show {
+    display: flex;
+    overflow: visible;
+
+}
+
+.sample div.hasPhoto {
+    background-color: green;
+    display: flex;
+}
+
+.sample div.red {
+    background-color: red;
+    display: flex;
+}
