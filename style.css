@@ -22,7 +22,7 @@
 
 .planar {
     background-color: rgb(89, 203, 78);
-    width: 120px;
+    width: 127px;
     height: 40px;
     border: 1px solid black;
     margin: -1px -1px 0 0;
@@ -31,7 +31,7 @@
 
 .hammocky {
     background-color: rgb(47, 131, 72);
-    width: 100px;
+    width: 125px;
     height: 40px;
     border: 1px solid black;
     margin: -1px -1px 0 0;
@@ -40,7 +40,7 @@
 
 .fine-laminated-siltstone {
     background-color: rgb(7, 90, 18);
-    width: 118px;
+    width: 123px;
     height: 40px;
     border: 1px solid black;
     margin: -1px -1px 0 0;
@@ -58,7 +58,7 @@
 
 .crossbedded {
     background-color: rgb(255, 237, 97);
-    width: 125px;
+    width: 127px;
     border: 1px solid black;
     margin: -1px -1px 0 0;
     margin-right: 5px;
@@ -107,7 +107,7 @@
 
 .dolomite-breccia {
     background-color: rgb(237, 181, 232);
-    width: 126px;
+    width: 124px;
     height: 30px;
     border: 1px solid black;
     margin: -1px -1px 0 0;
@@ -116,7 +116,7 @@
 
 .alterating-sandstones-shales {
     background-color: rgb(234, 159, 124);
-    width: 126px;
+    width: 124px;
     height: 30px;
     border: 1px solid black;
     margin: -1px -1px 0 0;
@@ -197,7 +197,6 @@ div.image {
 .show {
     display: flex;
     overflow: visible;
-
 }
 
 .sample div.hasPhoto {
@@ -208,4 +207,987 @@ div.image {
 .sample div.red {
     background-color: red;
     display: flex;
+}
+
+.legend {
+    position: sticky;
+    top: 0px;
+    right: 0px;
+    height: 400px;
+}
+
+.image1108I-1536XP-275 {
+    background-image: url("./assets/1108I-1536XP-275.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1536XP-276 {
+    background-image: url("./assets/1108I-1536XP-276.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1536XP-277 {
+    background-image: url("./assets/1108I-1536XP-277.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1536XP-280 {
+    background-image: url("./assets/1108I-1536XP-280.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1536XP-279 {
+    background-image: url("./assets/1108I-1536XP-279.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1536XP-278 {
+    background-image: url("./assets/1108I-1536XP-278.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1536XP-281 {
+    background-image: url("./assets/1108I-1536XP-281.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1536XP-282 {
+    background-image: url("./assets/1108I-1536XP-282.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1536XP-283 {
+    background-image: url("./assets/1108I-1536XP-283.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1534XP-274 {
+    background-image: url("./assets/1108I-1534XP-274.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1534XP-273 {
+    background-image: url("./assets/1108I-1534XP-273.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1534XP-272 {
+    background-image: url("./assets/1108I-1534XP-272.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1534XP-269 {
+    background-image: url("./assets/1108I-1534XP-269.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1534XP-270 {
+    background-image: url("./assets/1108I-1534XP-270.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1534XP-271 {
+    background-image: url("./assets/1108I-1534XP-271.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1533XP-268 {
+    background-image: url("./assets/1108I-1533XP-268.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1533XP-267 {
+    background-image: url("./assets/1108I-1533XP-267.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1533XP-266 {
+    background-image: url("./assets/1108I-1533XP-266.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1532XP-263 {
+    background-image: url("./assets/1108I-1532XP-263.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1532XP-264 {
+    background-image: url("./assets/1108I-1532XP-264.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1532XP-265 {
+    background-image: url("./assets/1108I-1532XP-265.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1531XP-258 {
+    background-image: url("./assets/1108I-1531XP-258.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1531XP-259 {
+    background-image: url("./assets/1108I-1531XP-259.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1531BXP-262 {
+    background-image: url("./assets/1108I-1531BXP-262.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1531BXP-261 {
+    background-image: url("./assets/1108I-1531BXP-261.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1531BXP-260 {
+    background-image: url("./assets/1108I-1531BXP-260.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1530XP-257 {
+    background-image: url("./assets/1108I-1530XP-257.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1530XP-256 {
+    background-image: url("./assets/1108I-1530XP-256.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1530XP-255 {
+    background-image: url("./assets/1108I-1530XP-255.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1529XP-251 {
+    background-image: url("./assets/1108I-1529XP-251.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1529XP-250 {
+    background-image: url("./assets/1108I-1529XP-250.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1529XP-249 {
+    background-image: url("./assets/1108I-1529XP-249.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1529BXP-252 {
+    background-image: url("./assets/1108I-1529BXP-252.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1529BXP-253 {
+    background-image: url("./assets/1108I-1529BXP-253.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1529BXP-254 {
+    background-image: url("./assets/1108I-1529BXP-254.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1528XP-246 {
+    background-image: url("./assets/1108I-1528XP-246.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1528XP-247 {
+    background-image: url("./assets/1108I-1528XP-247.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1528XP-248 {
+    background-image: url("./assets/1108I-1528XP-248.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1534XP-269 {
+    background-image: url("./assets/1108I-1534XP-269.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1534XP-270 {
+    background-image: url("./assets/1108I-1534XP-270.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1534XP-271 {
+    background-image: url("./assets/1108I-1534XP-271.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1526XP-245 {
+    background-image: url("./assets/1108I-1526XP-245.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1526XP-244 {
+    background-image: url("./assets/1108I-1526XP-244.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1526XP-243 {
+    background-image: url("./assets/1108I-1526XP-243.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1525XP-240 {
+    background-image: url("./assets/1108I-1525XP-240.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1525XP-241 {
+    background-image: url("./assets/1108I-1525XP-241.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1525XP-242 {
+    background-image: url("./assets/1108I-1525XP-242.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1524XP-239 {
+    background-image: url("./assets/1108I-1524XP-239.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1524XP-238 {
+    background-image: url("./assets/1108I-1524XP-238.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1524XP-237 {
+    background-image: url("./assets/1108I-1524XP-237.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1523XP-234 {
+    background-image: url("./assets/1108I-1523XP-234.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1523XP-235 {
+    background-image: url("./assets/1108I-1523XP-235.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1523XP-236 {
+    background-image: url("./assets/1108I-1523XP-236.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1521BXP-227 {
+    background-image: url("./assets/1108I-1521BXP-227.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1521BXP-228 {
+    background-image: url("./assets/1108I-1521BXP-228.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1521BXP-229 {
+    background-image: url("./assets/1108I-1521BXP-229.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1521BXP-230 {
+    background-image: url("./assets/1108I-1521BXP-230.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1520XP-226 {
+    background-image: url("./assets/1108I-1520XP-226.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1520XP-225 {
+    background-image: url("./assets/1108I-1520XP-225.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1520XP-224 {
+    background-image: url("./assets/1108I-1520XP-224.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1520XP-223 {
+    background-image: url("./assets/1108I-1520XP-223.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1518BXP-220 {
+    background-image: url("./assets/1108I-1518BXP-220.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1518BXP-221 {
+    background-image: url("./assets/1108I-1518BXP-221.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1518BXP-222 {
+    background-image: url("./assets/1108I-1518BXP-222.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1517XP-207 {
+    background-image: url("./assets/1108I-1517XP-207.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1517XP-208 {
+    background-image: url("./assets/1108I-1517XP-208.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1517BXP-213 {
+    background-image: url("./assets/1108I-1517BXP-213.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1517BXP-212 {
+    background-image: url("./assets/1108I-1517BXP-212.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1517BXP-211 {
+    background-image: url("./assets/1108I-1517BXP-211.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1518BXP-217 {
+    background-image: url("./assets/1108I-1518BXP-217.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1518BXP-218 {
+    background-image: url("./assets/1108I-1518BXP-218.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1518BXP-219 {
+    background-image: url("./assets/1108I-1518BXP-219.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1515XP-201 {
+    background-image: url("./assets/1108I-1515XP-201.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1515XP-202 {
+    background-image: url("./assets/1108I-1515XP-202.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1515XP-203 {
+    background-image: url("./assets/1108I-1515XP-203.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1516XP-206 {
+    background-image: url("./assets/1108I-1516XP-206.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1516XP-205 {
+    background-image: url("./assets/1108I-1516XP-205.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1516XP-204 {
+    background-image: url("./assets/1108I-1516XP-204.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1514XP-200 {
+    background-image: url("./assets/1108I-1514XP-200.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1514XP-199 {
+    background-image: url("./assets/1108I-1514XP-199.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1514XP-198 {
+    background-image: url("./assets/1108I-1514XP-198.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1513XP-195 {
+    background-image: url("./assets/1108I-1513XP-195.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1513XP-196 {
+    background-image: url("./assets/1108I-1513XP-196.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1513XP-197 {
+    background-image: url("./assets/1108I-1513XP-197.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1511XP-188 {
+    background-image: url("./assets/1108I-1511XP-188.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1511XP-190 {
+    background-image: url("./assets/1108I-1511XP-190.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1511XP-191 {
+    background-image: url("./assets/1108I-1511XP-191.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1511BXP-193 {
+    background-image: url("./assets/1108I-1511BXP-193.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1511BXP-192 {
+    background-image: url("./assets/1108I-1511BXP-192.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1510XP-182 {
+    background-image: url("./assets/1108I-1510XP-182.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1510XP-183 {
+    background-image: url("./assets/1108I-1510XP-183.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1510XP-184 {
+    background-image: url("./assets/1108I-1510XP-184.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1510BXP-187 {
+    background-image: url("./assets/1108I-1510BXP-187.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1510BXP-186 {
+    background-image: url("./assets/1108I-1510BXP-186.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1510BXP-185 {
+    background-image: url("./assets/1108I-1510BXP-185.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1508XP-175 {
+    background-image: url("./assets/1108I-1508XP-175.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1508XP-177 {
+    background-image: url("./assets/1108I-1508XP-177.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1508XP-178 {
+    background-image: url("./assets/1108I-1508XP-178.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1508BXP-181 {
+    background-image: url("./assets/1108I-1508BXP-181.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1508BXP-180 {
+    background-image: url("./assets/1108I-1508BXP-180.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1508BXP-179 {
+    background-image: url("./assets/1108I-1508BXP-179.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1507XP-174 {
+    background-image: url("./assets/1108I-1507XP-174.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1507XP-173 {
+    background-image: url("./assets/1108I-1507XP-173.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1507XP-172 {
+    background-image: url("./assets/1108I-1507XP-172.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1505XP-168 {
+    background-image: url("./assets/1108I-1505XP-168.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1505XP-167 {
+    background-image: url("./assets/1108I-1505XP-167.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1505XP-166 {
+    background-image: url("./assets/1108I-1505XP-166.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1503XP-162 {
+    background-image: url("./assets/1108I-1503XP-162.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1503XP-161 {
+    background-image: url("./assets/1108I-1503XP-161.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1503XP-160 {
+    background-image: url("./assets/1108I-1503XP-160.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1505XP-163 {
+    background-image: url("./assets/1108I-1505XP-163.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1505XP-164 {
+    background-image: url("./assets/1108I-1505XP-164.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1505XP-165 {
+    background-image: url("./assets/1108I-1505XP-165.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1503XP-157 {
+    background-image: url("./assets/1108I-1503XP-157.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1503XP-158 {
+    background-image: url("./assets/1108I-1503XP-158.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1503XP-159 {
+    background-image: url("./assets/1108I-1503XP-159.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1502XP-156 {
+    background-image: url("./assets/1108I-1502XP-156.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1502XP-155 {
+    background-image: url("./assets/1108I-1502XP-155.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1502XP-154 {
+    background-image: url("./assets/1108I-1502XP-154.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1501XP-151 {
+    background-image: url("./assets/1108I-1501XP-151.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1501XP-152 {
+    background-image: url("./assets/1108I-1501XP-152.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image1108I-1501XP-153 {
+    background-image: url("./assets/1108I-1501XP-153.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
